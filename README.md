@@ -1,4 +1,4 @@
 node-stripe
 ===========
 
-NodeJs Stripe Integration sample
+Node Stripe Integration sample
